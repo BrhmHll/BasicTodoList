@@ -10,4 +10,4 @@ No need anything
 ```
 
 # Screenshot
-![Example Screenshot](https://github.com/BrhmHll/BasicTodoList/tree/main/Screenshot.png)
+![Example Screenshot](https://github.com/BrhmHll/BasicTodoList/tree/main/ScreenShot.png)
